@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Home Match</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_choose_login_and_reg">Choose Login and Register</string>
+    <string-array name="services">
+        <item>Netflix</item>
+        <item>Amazon Prime</item>
+        <item>Hulu</item>
+        <item>Vudu</item>
+        <item>HBO Now</item>
+        <item>Youtube Originals</item>
+        <item>None</item>
+    </string-array>
+    <string name="fcm_message"> New Notification </string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="default_notification_channel_name">dafault</string>
+</resources>
